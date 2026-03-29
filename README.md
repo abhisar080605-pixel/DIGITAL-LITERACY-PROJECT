@@ -51,10 +51,9 @@ Task 2: Student Digital Portfolio
 
 Profiles created/updated on:
 
-GitHub → 
-LinkedIn → www.linkedin.com/in/
-hradaysingh43
-Kaggle/Other → https://www.kaggle.com/hradaysingh
+GitHub → https://github.com/abhisar080605-pixel
+LinkedIn → www.linkedin.com/in/abhisar-porwal-8aa198381
+Kaggle/Other → https://www.kaggle.com/abhisarporwal
 
 Purpose:
 Build professional online identity
